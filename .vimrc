@@ -1,0 +1,15 @@
+syntax on
+set number
+set ruler
+set autoindent
+set hls
+set nowrap
+set smarttab
+set smartindent
+set tabstop=4
+set expandtab
+set synmaxcol=256
+set softtabstop=4
+set shiftwidth=4
+set ignorecase
+set incsearch
