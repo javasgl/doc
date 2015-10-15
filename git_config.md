@@ -1,6 +1,6 @@
 core.autocrlf=false
-user.email=ganglin.song@yourdream.cc
-user.name=ganglin.song
+user.email=xx
+user.name=xx
 color.status=auto
 color.branch=auto
 color.diff=auto
