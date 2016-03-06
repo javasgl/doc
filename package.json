@@ -1,0 +1,23 @@
+{
+  "name": "doc",
+  "version": "1.0.0",
+  "description": "notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javasgl/doc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javasgl/doc/issues"
+  },
+  "homepage": "https://github.com/javasgl/doc#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-uglify": "^0.9.2"
+  }
+}

@@ -35,4 +35,10 @@
 - unbound
 ![vim](https://raw.githubusercontent.com/javasgl/doc/master/vim.png)
 
+- 压力测试
+    - http_load
+    - webbench
+    - ab
+    - siege
 
+- php opcode分析工具vld
