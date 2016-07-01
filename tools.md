@@ -35,6 +35,13 @@
 - ssdb redis 
 
 - unbound
+
+- DNSmasq
+
+- vmstat
+
+- strace ptrac dtrace
+
 ![vim](https://raw.githubusercontent.com/javasgl/doc/master/vim.png)
 
 - 压力测试
